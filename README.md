@@ -1,7 +1,7 @@
 
 # Laravel REST API
 
-This is a CRUD(create,read,update and delete) API built with laravel [laravel](https://laravel.com/). It has authentication built in using laravel santum.
+This is a CRUD (create,read,update and delete) API built with laravel [laravel](https://laravel.com/). It has authentication built in using laravel santum.
 
 ## Installation
 
